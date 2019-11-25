@@ -9,3 +9,8 @@ AMR/USMR Measurements - AMR Peaks, Resistance change
 Pulse Switching Measurements - Critical Current Values, Thermal Stability Analysis
 
 Sample data is provided for example purposes. 
+
+Built using:
+Pandas v 0.24.2
+Seaborn v. 0.9.0
+Matplotlib v. 3.0.3
